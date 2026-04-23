@@ -535,7 +535,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-905669c9ef204fc39b095af099ed1709"
-        fillColor="#ff0000">
+        fillColor="#b5ffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4c0585aa25314f86988023d97808b6ae"
