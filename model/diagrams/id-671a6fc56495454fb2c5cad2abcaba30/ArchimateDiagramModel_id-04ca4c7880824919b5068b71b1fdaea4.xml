@@ -1,4 +1,52 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business-Application Alignment"
-    id="id-04ca4c7880824919b5068b71b1fdaea4"/>
+    name="Business-Application Alignment View"
+    id="id-04ca4c7880824919b5068b71b1fdaea4">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-709350d23ab14a66b2522dd370fb2265"
+      name="Proses Bisnis Pengembangan Produk - Application Alignment"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="12"
+        width="877"
+        height="277"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c810b4452daf4b94be0de98c2e7faa4b">
+      <bounds
+          x="24"
+          y="36"
+          width="829"
+          height="133"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-7f87174e828f49e7b5ec34f748448e32.xml#id-7f87174e828f49e7b5ec34f748448e32"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-bdc06368aaa84f35929c9c3c91641421"
+      name="Proses Bisnis Strategi Go To Market - Application Alignment"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="312"
+        width="877"
+        height="253"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ca8707ecb90a41089e21fe1f7b6dabca">
+      <bounds
+          x="12"
+          y="24"
+          width="841"
+          height="121"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-5e0ae3105db84686b071feccf2aac440.xml#id-5e0ae3105db84686b071feccf2aac440"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

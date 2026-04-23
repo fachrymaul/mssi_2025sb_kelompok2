@@ -1,4 +1,56 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Portfolio"
-    id="id-460789573f9b4016975e424fd986afcc"/>
+    name="Application Portfolio View"
+    id="id-460789573f9b4016975e424fd986afcc">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2bafa1d56db14feeab9798f42a949e3b"
+      textAlignment="1">
+    <bounds
+        x="49"
+        y="16"
+        width="398"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-7731c4cf6b4d4e0a88edb26bd35ba968.xml#id-7731c4cf6b4d4e0a88edb26bd35ba968"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-92ff54c672834dc38b4c49201da7ef09"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="168"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-1b4f2318ae85467abe6c42beedfe91ae.xml#id-1b4f2318ae85467abe6c42beedfe91ae"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d7062d8a00b44e429c4e56e420fe84ba"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="324"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-45ec89b11b2b47ccb7e88d7a15003d5a.xml#id-45ec89b11b2b47ccb7e88d7a15003d5a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-a2e4a26536a34b2babec35ae5cdf7336"
+      name="Key Operational"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="480"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
