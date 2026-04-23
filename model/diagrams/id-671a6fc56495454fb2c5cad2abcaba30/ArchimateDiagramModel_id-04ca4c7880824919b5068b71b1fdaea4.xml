@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-709350d23ab14a66b2522dd370fb2265"
-      name="Proses Bisnis Pengembangan Produk - Application Alignment (AS - IS)"
+      name="Proses Bisnis Pengembangan Produk - Application Alignment"
       textAlignment="1">
     <bounds
         x="12"
@@ -524,9 +524,9 @@
             href="RealizationRelationship_id-76bb5a1bb39a495abef7bd55cd3d2ac4.xml#id-76bb5a1bb39a495abef7bd55cd3d2ac4"/>
       </sourceConnections>
       <bounds
-          x="900"
+          x="882"
           y="420"
-          width="120"
+          width="156"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -534,7 +534,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-905669c9ef204fc39b095af099ed1709">
+        id="id-905669c9ef204fc39b095af099ed1709"
+        fillColor="#ff0000">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4c0585aa25314f86988023d97808b6ae"
