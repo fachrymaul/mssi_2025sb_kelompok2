@@ -21,8 +21,8 @@
       id="id-92ff54c672834dc38b4c49201da7ef09"
       textAlignment="1">
     <bounds
-        x="48"
-        y="168"
+        x="468"
+        y="16"
         width="400"
         height="140"/>
     <archimateElement
@@ -34,8 +34,8 @@
       id="id-d7062d8a00b44e429c4e56e420fe84ba"
       textAlignment="1">
     <bounds
-        x="48"
-        y="324"
+        x="468"
+        y="192"
         width="400"
         height="140"/>
     <archimateElement
@@ -43,14 +43,16 @@
         href="Grouping_id-45ec89b11b2b47ccb7e88d7a15003d5a.xml#id-45ec89b11b2b47ccb7e88d7a15003d5a"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-a2e4a26536a34b2babec35ae5cdf7336"
-      name="Key Operational"
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-26bb0952ea964054a74a2ca6486957ec"
       textAlignment="1">
     <bounds
-        x="48"
-        y="480"
+        x="49"
+        y="192"
         width="400"
         height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-6c7693ab424e42f2bfdd54289307cabb.xml#id-6c7693ab424e42f2bfdd54289307cabb"/>
   </children>
 </archimate:ArchimateDiagramModel>
