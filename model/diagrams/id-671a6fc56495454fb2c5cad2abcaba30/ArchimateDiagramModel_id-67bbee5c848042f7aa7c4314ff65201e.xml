@@ -1487,7 +1487,7 @@
       </sourceConnections>
       <bounds
           x="1344"
-          y="48"
+          y="36"
           width="792"
           height="313"/>
       <children
@@ -1665,7 +1665,7 @@
       textAlignment="1">
     <bounds
         x="24"
-        y="1128"
+        y="912"
         width="1261"
         height="140"/>
     <children
