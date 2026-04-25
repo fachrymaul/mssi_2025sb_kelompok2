@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Exit Control Management"
+    id="id-0b9442d3cba24006b0b180cea2bebacb"
+    viewpoint="capability">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cbe54126cd8f492bb67aa420289dabc8"
+      targetConnections="id-02ca03aa5a2c4165a66d3ada150cee7c">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-28c8f1d3abff4eafb831276761da4b21.xml#id-28c8f1d3abff4eafb831276761da4b21"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5bb66032362643cea954d26755c5b1f4">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-02ca03aa5a2c4165a66d3ada150cee7c"
+        source="id-5bb66032362643cea954d26755c5b1f4"
+        target="id-cbe54126cd8f492bb67aa420289dabc8">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-cdc6ec60edaa4c21bc81b7e0920cd91a.xml#id-cdc6ec60edaa4c21bc81b7e0920cd91a"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-3a42f24c51ef468ebe0f84930b6492be.xml#id-3a42f24c51ef468ebe0f84930b6492be"/>
+  </children>
+</archimate:ArchimateDiagramModel>
