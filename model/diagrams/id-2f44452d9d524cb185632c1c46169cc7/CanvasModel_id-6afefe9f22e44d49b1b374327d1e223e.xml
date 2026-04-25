@@ -124,6 +124,32 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c166d8e0ca3f40fe956bd6ad86385cdd"
+        fillColor="#c4c4f8"
+        content="Commercial Building Owner and Management"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="60"
+          width="95"
+          height="92"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-39b12f4f7f4d4b93a87c0361a4031ba2"
+        fillColor="#c4c4f8"
+        content="Vehicle Owners"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="60"
+          width="95"
+          height="92"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
