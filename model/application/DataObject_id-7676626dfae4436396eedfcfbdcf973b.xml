@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gate Transaction"
+    id="id-7676626dfae4436396eedfcfbdcf973b"
+    documentation="As-is gate interaction entity recording open or close attempts, barrier state, access decision, and associated vehicle or credential context."/>

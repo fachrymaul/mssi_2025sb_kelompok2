@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parking Slot"
+    id="id-e1a59ee131fc4e3da02a424faabfe887"
+    documentation="As-is parking inventory entity used in guidance and reservation systems to represent physical parking spaces, categories, zones, and occupancy capability."/>

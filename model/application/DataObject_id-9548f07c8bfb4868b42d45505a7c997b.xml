@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document"
+    id="id-9548f07c8bfb4868b42d45505a7c997b"
+    documentation="As-is enterprise document entity storing metadata, classification, versioning, and retention references for managed documents."/>

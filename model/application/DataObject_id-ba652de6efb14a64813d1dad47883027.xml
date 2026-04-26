@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Department"
+    id="id-ba652de6efb14a64813d1dad47883027"
+    documentation="As-is organizational unit entity maintained in HR and often replicated across access control, project tools, and reporting systems."/>

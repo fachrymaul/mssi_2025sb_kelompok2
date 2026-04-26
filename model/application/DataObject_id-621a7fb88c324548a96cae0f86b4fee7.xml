@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reservation Request"
+    id="id-621a7fb88c324548a96cae0f86b4fee7"
+    documentation="As-is reservation entity used to reserve parking capacity automatically for customers before arrival."/>

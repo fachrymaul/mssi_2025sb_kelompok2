@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purchase Order"
+    id="id-5a3f39ff1b9c4e1eab682495aa7a23e4"
+    documentation="As-is procurement entity representing planned purchases, suppliers, requested items, quantities, and approval status."/>

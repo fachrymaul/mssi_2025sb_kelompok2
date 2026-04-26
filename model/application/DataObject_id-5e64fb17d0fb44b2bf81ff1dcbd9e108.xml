@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Link Click Event"
+    id="id-5e64fb17d0fb44b2bf81ff1dcbd9e108"
+    documentation="As-is tracking event for shortened and managed links, including UTM parameters, click time, device context, and redirect target."/>

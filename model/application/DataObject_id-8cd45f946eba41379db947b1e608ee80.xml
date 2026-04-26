@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Page View"
+    id="id-8cd45f946eba41379db947b1e608ee80"
+    documentation="As-is digital interaction entity for page impressions including page URL, timestamp, source, visitor token, and session context."/>

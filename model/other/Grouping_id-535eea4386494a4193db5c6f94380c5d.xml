@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Operations Data"
+    id="id-535eea4386494a4193db5c6f94380c5d"
+    documentation="Grouping for current-state operational customer-facing data entities derived from parking, gate, payment, control room, LPR, vehicle counting, face recognition, and dispatch applications."/>

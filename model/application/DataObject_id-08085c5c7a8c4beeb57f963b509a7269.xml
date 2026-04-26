@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee"
+    id="id-08085c5c7a8c4beeb57f963b509a7269"
+    documentation="As-is employee master entity used by HR platform to maintain employee identity, department, position, contract, and employment status."/>

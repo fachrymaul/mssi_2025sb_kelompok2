@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Emergency Alert"
+    id="id-ab63894fc1a944788c9ec903d5f013b3"
+    documentation="As-is alert entity raised from panic buttons or emergency channels with location, time, severity, and responder references."/>
