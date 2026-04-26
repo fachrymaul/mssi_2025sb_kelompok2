@@ -22,6 +22,84 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-db0473e0ebf5483d8fac264bc68b0baa"
+        fillColor="#c4c4f8"
+        content="Pemilik/pengelola properti dan&#xA;area parkir"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="117"
+          height="66"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-9a10802319b540459865c21b9ea92654"
+        fillColor="#c4c4f8"
+        content="Payment partner: e-money,&#xA;QRIS, e-wallet, kartu bank"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="132"
+          width="180"
+          height="66"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-5264653453df40e884428a7e37d7953a"
+        fillColor="#c4c4f8"
+        content="Vendor perangkat parkir, kamera,&#xA;sensor, barrier gate"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="216"
+          width="156"
+          height="66"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-6d0c2107b1294c459eda1db582fe08d3"
+        fillColor="#c4c4f8"
+        content="Penyedia jaringan, server/cloud,&#xA;dan integrator sistem"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="300"
+          width="143"
+          height="66"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c1ba25dc9ca04ab4b098a2c2ac74f4b7"
+        fillColor="#c4c4f8"
+        content="Pemilik/pengelola properti dan&#xA;area parkir"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="384"
+          width="117"
+          height="66"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-caae11cffb794c4ab847b03725a60514"
+        fillColor="#c4c4f8"
+        content="Klien korporasi lintas sektor&#xA;sebagai partner jangka panjang"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="468"
+          width="179"
+          height="66"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
