@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="event delivery"
+    id="id-9a5980d5a79d4e02a226ffebc77b61cb">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-c7545f1f387142328f25692736d0e359.xml#id-c7545f1f387142328f25692736d0e359"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-05b80c1db0814abebd82e4f7e3e45827.xml#id-05b80c1db0814abebd82e4f7e3e45827"/>
+</archimate:AssociationRelationship>
