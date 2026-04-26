@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Entity Application"
+    name="Data Management Process Model View"
     id="id-feaaf858e75f443389cbc8df263066e6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
