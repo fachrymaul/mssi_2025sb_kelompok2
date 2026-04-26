@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Charging Session"
+    id="id-6725f685378b4748a8dc139acd5642c7"
+    documentation="As-is EV charging session entity storing station, connector, timing, tariff, and energy usage information."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vehicle Passage Record"
+    id="id-6ad993b284294077898bd6f07e182d2f"
+    documentation="As-is access record capturing vehicle entry and exit transactions at IN and OUT gates including time, lane, and gate result."/>

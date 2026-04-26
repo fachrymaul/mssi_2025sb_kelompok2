@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Segment"
+    id="id-c83f212cc11941f98dcf86f74b6edf47"
+    documentation="As-is segmentation entity used by customer engagement and marketing tools to classify customers by demographics, behavior, and campaign suitability. Often maintained separately from mobile app, analytics, and payment segmentation logic."/>

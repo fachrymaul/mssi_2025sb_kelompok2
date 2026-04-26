@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Request"
+    id="id-f2dc8845188841c1a1ed609eda184c47"
+    documentation="As-is identity governance entity for requesting application, system, or facility access with approver and status references."/>

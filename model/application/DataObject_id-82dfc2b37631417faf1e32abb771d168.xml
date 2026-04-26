@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operational Incident"
+    id="id-82dfc2b37631417faf1e32abb771d168"
+    documentation="As-is incident entity used by the control room to track abnormal events, security issues, and operational disruptions."/>

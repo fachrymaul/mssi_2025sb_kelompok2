@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journal Entry"
+    id="id-99db6792c7654dbfaec2b56242d000f0"
+    documentation="As-is accounting journal entity composed of debit and credit lines used for financial postings and reconciliation."/>
