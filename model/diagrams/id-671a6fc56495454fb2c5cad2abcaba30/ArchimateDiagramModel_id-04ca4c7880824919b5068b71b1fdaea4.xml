@@ -330,7 +330,7 @@
           x="192"
           y="300"
           width="120"
-          height="55"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-d2fbf0da0ffe40a0b5009d286827aae3.xml#id-d2fbf0da0ffe40a0b5009d286827aae3"/>
@@ -361,7 +361,7 @@
           x="552"
           y="300"
           width="143"
-          height="55"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-2fc1b421dc7c47c59354be50b15f0b1d.xml#id-2fc1b421dc7c47c59354be50b15f0b1d"/>
@@ -401,7 +401,7 @@
           x="900"
           y="300"
           width="120"
-          height="55"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-1372b9345ec54ae2bf5ae85f6a6061cd.xml#id-1372b9345ec54ae2bf5ae85f6a6061cd"/>
@@ -423,7 +423,7 @@
           x="1164"
           y="300"
           width="120"
-          height="55"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-a104410aa2874fb994bcabd9e7502e00.xml#id-a104410aa2874fb994bcabd9e7502e00"/>
