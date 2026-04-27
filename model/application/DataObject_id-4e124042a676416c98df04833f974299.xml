@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Session"
+    id="id-4e124042a676416c98df04833f974299"
+    documentation="As-is analytics session entity capturing a browsing or app session with timestamps, device context, and source attribution."/>

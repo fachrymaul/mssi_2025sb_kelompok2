@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Discussion Post"
+    id="id-0bdabbedf90f48c392ed398026418be9"
+    documentation="As-is collaboration interaction entity containing discussion content, author, thread, mentions, and attachment references."/>

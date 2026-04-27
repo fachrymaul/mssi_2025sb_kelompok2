@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ITSM Incident"
+    id="id-3ee7911394dc41509bfb68c964ea8f91"
+    documentation="As-is service management incident record used to track operational disruptions, user-reported problems, and service restoration actions."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedback"
+    id="id-90507956558d4f989882eda90818f1f7"
+    documentation="As-is feedback entity holding customer complaints, suggestions, ratings, and comments captured from app, web, or service interaction points."/>

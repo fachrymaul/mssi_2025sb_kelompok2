@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recognized Plate Result"
+    id="id-abfe8d59f94b419f900e7ba1d1f20941"
+    documentation="As-is LPR recognition entity storing detected license plate text, confidence score, image reference, and whitelist or blacklist match status."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Request"
+    id="id-151c103706944f46a28a77a4995c2871"
+    documentation="As-is ITSM request entity used for user service needs, standard requests, approvals, fulfilment, and SLA tracking."/>

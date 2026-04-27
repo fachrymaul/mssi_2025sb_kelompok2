@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="controlled access"
+    id="id-368eb8b869ba4b439e106b0255f910c5">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7f603d5bf7d84f8890849f4033b4b412.xml#id-7f603d5bf7d84f8890849f4033b4b412"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-f611631d62684599abb4ded3fa43e54f.xml#id-f611631d62684599abb4ded3fa43e54f"/>
+</archimate:AssociationRelationship>
