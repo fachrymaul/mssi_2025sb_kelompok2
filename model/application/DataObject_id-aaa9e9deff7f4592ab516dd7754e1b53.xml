@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Super App User"
+    id="id-aaa9e9deff7f4592ab516dd7754e1b53"
+    documentation="As-is customer-facing app account entity representing WUZZ users, their preferences, device bindings, and app membership state."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Version"
+    id="id-05a15d7662a34c9cad4d8a56205cb745"
+    documentation="As-is managed version entity storing revision number, editor, approval state, and effective date for a controlled document."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marketing Campaign"
+    id="id-1e7ece93dd97420796d710bbdde85fbd"
+    documentation="As-is campaign entity containing objectives, target audience, budget references, schedules, and performance tracking identifiers."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytical Dataset"
+    id="id-7a43a755beb14ff9ab812984e597b180"
+    documentation="As-is curated reporting dataset prepared for BI tools and dashboards, often duplicating logic from source systems and spreadsheets."/>

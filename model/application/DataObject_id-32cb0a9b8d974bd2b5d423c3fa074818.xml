@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring Alert"
+    id="id-32cb0a9b8d974bd2b5d423c3fa074818"
+    documentation="As-is monitoring event entity for threshold breaches, health failures, availability drops, and capacity anomalies."/>

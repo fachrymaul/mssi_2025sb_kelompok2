@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payroll Record"
+    id="id-ca9e52fc29cd4e64a8cd3f7abd1fef2b"
+    documentation="As-is payroll entity containing salary, allowance, deduction, and payout information for employees."/>
