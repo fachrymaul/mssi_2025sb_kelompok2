@@ -102,20 +102,25 @@
           source="id-23d0f4c2671546ac9d30691213035bc5"
           target="id-0c352318fb1644d0ba1b8bb382106688">
         <bendpoints
-            startX="264"
+            startX="288"
             startY="-3"
-            endX="-348"
-            endY="-219"/>
+            endX="-336"
+            endY="-177"/>
         <bendpoints
-            startX="468"
-            startY="-15"
-            endX="-156"
-            endY="-171"/>
+            startX="288"
+            startY="105"
+            endX="-336"
+            endY="-69"/>
         <bendpoints
             startX="444"
-            startY="213"
-            endX="-168"
-            endY="-3"/>
+            startY="105"
+            endX="-180"
+            endY="-69"/>
+        <bendpoints
+            startX="444"
+            startY="177"
+            endX="-180"
+            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-0f166f2751ca4052991ff49e9012a982.xml#id-0f166f2751ca4052991ff49e9012a982"/>
@@ -142,11 +147,6 @@
             startY="-87"
             endX="-276"
             endY="-3"/>
-        <bendpoints
-            startX="132"
-            startY="-87"
-            endX="-144"
-            endY="9"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_id-33354fbe3f7649e785c0cc7ce889041e.xml#id-33354fbe3f7649e785c0cc7ce889041e"/>
@@ -296,18 +296,13 @@
         <bendpoints
             startX="227"
             startY="-3"
-            endX="-216"
-            endY="57"/>
+            endX="-228"
+            endY="99"/>
         <bendpoints
             startX="227"
-            startY="-111"
+            startY="-99"
             endX="-228"
-            endY="9"/>
-        <bendpoints
-            startX="299"
-            startY="-63"
-            endX="-144"
-            endY="-3"/>
+            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-ea3f199cdf21488d860fa941b223c139.xml#id-ea3f199cdf21488d860fa941b223c139"/>

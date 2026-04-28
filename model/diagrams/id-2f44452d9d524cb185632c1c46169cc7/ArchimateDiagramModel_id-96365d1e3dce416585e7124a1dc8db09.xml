@@ -52,8 +52,8 @@
           href="RealizationRelationship_id-17a71e63362e4ea8ad8ea28588f43df9.xml#id-17a71e63362e4ea8ad8ea28588f43df9"/>
     </sourceConnections>
     <bounds
-        x="463"
-        y="521"
+        x="427"
+        y="317"
         width="120"
         height="55"/>
     <archimateElement
@@ -82,8 +82,8 @@
           href="RealizationRelationship_id-e15d38bc87d744b1977431525297a6e0.xml#id-e15d38bc87d744b1977431525297a6e0"/>
     </sourceConnections>
     <bounds
-        x="660"
-        y="521"
+        x="624"
+        y="317"
         width="120"
         height="55"/>
     <archimateElement
@@ -95,8 +95,8 @@
       id="id-a76e455f940641cd89ee6ae4901de87c"
       targetConnections="id-7c181b4cdeb047da8ae1c4f355a5523d">
     <bounds
-        x="120"
-        y="408"
+        x="84"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
@@ -108,8 +108,8 @@
       id="id-e447cb2da81b4d8fb09f9fb500627519"
       targetConnections="id-cd0476f6f6ef4b3a9bf8a3eb0859cfc8">
     <bounds
-        x="300"
-        y="408"
+        x="264"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
@@ -121,8 +121,8 @@
       id="id-a4e63b633f3c469baafe543ae52820b6"
       targetConnections="id-70a73ebe00d34be98229fc6aa7dafaa0 id-c0d2d629d05e40229815025c7e4152e8">
     <bounds
-        x="912"
-        y="408"
+        x="876"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
@@ -134,8 +134,8 @@
       id="id-a6cc94b70b52429c835bef62eb2cf8dc"
       targetConnections="id-5b394f2dc6bf418c8dd1489396af4cdb id-9a4b02484bfb4eba98ae39259120fc3d">
     <bounds
-        x="684"
-        y="408"
+        x="648"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
@@ -147,8 +147,8 @@
       id="id-157f37d131e04aca931e332c26de43d2"
       targetConnections="id-de453eb812114f6299ab48ff9167fced">
     <bounds
-        x="463"
-        y="408"
+        x="427"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
