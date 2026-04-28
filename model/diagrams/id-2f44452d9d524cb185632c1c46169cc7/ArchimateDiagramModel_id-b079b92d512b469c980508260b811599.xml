@@ -688,7 +688,7 @@
         id="id-4968caf580ff4f419a908f47b182eb5f"
         targetConnections="id-9e92364ea80f44baa4548499cee13d58">
       <bounds
-          x="300"
+          x="168"
           y="36"
           width="120"
           height="55"/>
@@ -714,8 +714,8 @@
         id="id-f3c34dc03215419d92053a64ce8a9f13"
         targetConnections="id-f9137e4147c74e2ca2e8a561600f23e7">
       <bounds
-          x="324"
-          y="117"
+          x="300"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
