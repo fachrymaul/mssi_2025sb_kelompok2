@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stakeholder View (old)"
+    name="Stakeholder View (new)"
     id="id-66606c8b80994a59ad620279d6cdcefe">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -30,7 +30,7 @@
       id="id-7eec6334d3a947ceb363202bee725870"
       targetConnections="id-6bcf4a6d682d44f39950089b79e85a24 id-17177befa78d474597e31fc37b52fc74">
     <bounds
-        x="396"
+        x="341"
         y="48"
         width="157"
         height="69"/>
@@ -63,12 +63,11 @@
       <bendpoints
           startX="-24"
           startY="-111"
-          endX="-114"
+          endX="-23"
           endY="74"/>
       <bendpoints
-          startX="60"
           startY="-111"
-          endX="6"
+          endX="1"
           endY="74"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -80,8 +79,9 @@
         source="id-83183bb085ab4f5ba299b1e6c513cad7"
         target="id-acb8a24799c64d88a7c9b0665861a716">
       <bendpoints
+          startX="24"
           startY="-87"
-          endX="-323"
+          endX="-299"
           endY="98"/>
       <bendpoints
           startX="324"
@@ -115,9 +115,9 @@
           endX="102"
           endY="74"/>
       <bendpoints
-          startX="-96"
+          startX="-156"
           startY="-111"
-          endX="6"
+          endX="1"
           endY="74"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -212,7 +212,7 @@
           href="AssociationRelationship_id-fcd88967105d4cf98ec71fe0ac8f6505.xml#id-fcd88967105d4cf98ec71fe0ac8f6505"/>
     </sourceConnections>
     <bounds
-        x="120"
+        x="60"
         y="48"
         width="157"
         height="69"/>
