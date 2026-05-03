@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tax Transaction"
+    id="id-8b6b5d29f4ad41129dfe610112164b39"
+    documentation="As-is tax calculation and compliance transaction entity tied to taxable events, invoices, and tax obligations."/>

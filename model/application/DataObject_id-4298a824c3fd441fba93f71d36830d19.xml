@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Profile"
+    id="id-4298a824c3fd441fba93f71d36830d19"
+    documentation="As-is customer profile entity used in customer engagement tools, containing customer attributes, channel preferences, status, and segmentation references."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI Value"
+    id="id-d61ad36eee654c438c7914a60d4231f6"
+    documentation="As-is analytical value entity storing calculated KPI results consumed by BI tools and dashboards."/>

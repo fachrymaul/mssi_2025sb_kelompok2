@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent Record"
+    id="id-461f1c8ef2314c5aa49c187a971eb467"
+    documentation="As-is consent entity used to store opt-in and opt-out preferences for communication channels, promotions, and privacy acceptance. Commonly duplicated across CRM, app, campaign, and contact tools."/>

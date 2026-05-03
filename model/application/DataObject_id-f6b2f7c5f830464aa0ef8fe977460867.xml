@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Transaction"
+    id="id-f6b2f7c5f830464aa0ef8fe977460867"
+    documentation="As-is transaction entity for customer payments, including method, amount, authorization, settlement, and billing references."/>

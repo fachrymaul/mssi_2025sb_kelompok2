@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authenticated access"
+    id="id-27c4d4dde91b4fa89184701fd42601a9">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-dc222f1ef1bb41939d2485363c20a970.xml#id-dc222f1ef1bb41939d2485363c20a970"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-f611631d62684599abb4ded3fa43e54f.xml#id-f611631d62684599abb4ded3fa43e54f"/>
+</archimate:AssociationRelationship>
