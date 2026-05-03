@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-709350d23ab14a66b2522dd370fb2265"
-      name="Proses Bisnis Pengembangan Produk - Application Alignment"
+      name="Proses Bisnis Pengembangan Produk- Application Alignment"
       textAlignment="1">
     <bounds
         x="12"
@@ -579,10 +579,11 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-bdc06368aaa84f35929c9c3c91641421"
-      name="Proses Bisnis Strategi Parkee - Application Alignment"
+      name="Proses Bisnis End-to-End Parking Management Parkee - Application Alignment"
       textAlignment="1">
     <bounds
-        y="600"
+        x="12"
+        y="552"
         width="1585"
         height="445"/>
     <children
