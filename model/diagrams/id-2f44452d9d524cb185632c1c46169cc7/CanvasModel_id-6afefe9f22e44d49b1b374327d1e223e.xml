@@ -26,7 +26,7 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-db0473e0ebf5483d8fac264bc68b0baa"
         fillColor="#c4c4f8"
-        content="Pemilik/pengelola properti dan&#xA;area parkir"
+        content="Commercial Building Owner and Management"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
@@ -39,65 +39,52 @@
         xsi:type="canvas:CanvasModelSticky"
         id="id-9a10802319b540459865c21b9ea92654"
         fillColor="#c4c4f8"
-        content="Payment partner: e-money,&#xA;QRIS, e-wallet, kartu bank"
+        content="Payment partner"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="132"
-          width="180"
+          width="97"
           height="66"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-5264653453df40e884428a7e37d7953a"
         fillColor="#c4c4f8"
-        content="Vendor perangkat parkir, kamera,&#xA;sensor, barrier gate"
+        content="Hardware Vendor"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="12"
           y="216"
-          width="156"
+          width="117"
           height="66"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
         id="id-6d0c2107b1294c459eda1db582fe08d3"
         fillColor="#c4c4f8"
-        content="Penyedia jaringan, server/cloud,&#xA;dan integrator sistem"
+        content="IT Infrastructure Vendor"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="300"
-          width="143"
+          x="13"
+          y="288"
+          width="115"
           height="66"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-c1ba25dc9ca04ab4b098a2c2ac74f4b7"
+        id="id-66fb9473262f487fad1eeaabf225685b"
         fillColor="#c4c4f8"
-        content="Pemilik/pengelola properti dan&#xA;area parkir"
+        content="Government"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="384"
-          width="117"
-          height="66"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-caae11cffb794c4ab847b03725a60514"
-        fillColor="#c4c4f8"
-        content="Klien korporasi lintas sektor&#xA;sebagai partner jangka panjang"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="468"
-          width="179"
+          x="13"
+          y="360"
+          width="115"
           height="66"/>
     </children>
   </children>
@@ -117,6 +104,97 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-f5c395f4677249c4883e4d9468483c04"
+        fillColor="#ffff95"
+        content="Sales and Customer Acquisition"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="24"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-5cfb30ebea2f4b4e806e063cc6b64468"
+        fillColor="#ffff95"
+        content="Customer Onboarding"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="96"
+          y="24"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-ffbc4bc0dc3742dea08c46fb2b62cf35"
+        fillColor="#ffff95"
+        content="Parking System Operation"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="96"
+          y="160"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-cc2aa97f073a43a0b3425fb7f0f1b241"
+        fillColor="#ffff95"
+        content="Payment Processing"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="96"
+          y="95"
+          width="85"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-cf9667c53f7a4d969ff67c34b0ec3774"
+        fillColor="#ffff95"
+        content="Transaction Management"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="7"
+          y="96"
+          width="85"
+          height="53"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-9bd9b939e2534291883f70dd14a948d7"
+        fillColor="#ffff95"
+        content="Customer Support"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="7"
+          y="160"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-aa70f8de50e644268a0f7136749170c4"
+        fillColor="#ffff95"
+        content="Partner and Ecosystem Management"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="36"
+          y="230"
+          width="140"
+          height="51"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -134,6 +212,71 @@
         y="300"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-785fdea278964e3dba658b97ed93ed9c"
+        fillColor="#d5ff95"
+        content="Mobile Application"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c4aaff38906d4683ae0374e809cbe2ce"
+        fillColor="#d5ff95"
+        content="IT Infrastructure"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="96"
+          y="48"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-65b4fd61310743558f52d32a35d5a28d"
+        fillColor="#d5ff95"
+        content="Parking Infrastructure"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="97"
+          y="120"
+          width="96"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-77758d9fe4a4490eb0f584aec1e831ac"
+        fillColor="#d5ff95"
+        content="Human Resource"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="120"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c8c5e52f330643c6be94e6b2b6d812a5"
+        fillColor="#d5ff95"
+        content="Data and Analytics"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="192"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -151,6 +294,97 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c922b465a40a4ef8a117dd629ee20f29"
+        fillColor="#c4c4f8"
+        content="Seamless Payment"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="60"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-f8a2fe4b2abf470b9bdb2b1887a3b159"
+        fillColor="#c4c4f8"
+        content="Seamless Parking Experience"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="132"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-369f06d7c5794efd9376e43fca003710"
+        fillColor="#c4c4f8"
+        content="Space Optimation"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="228"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-d79a055149f14f39b1a6a89050339782"
+        fillColor="#c4c4f8"
+        content="Parking Management"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="300"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-da5eab110fe8415aabbafa486b79d62b"
+        fillColor="#c4c4f8"
+        content="Operational Visibility"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="300"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-5527a9ea44624699b4b187f3dc029a60"
+        fillColor="#c4c4f8"
+        content="Secure Parking"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="60"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-6f513a73b5dd487182f95f38baa75a4c"
+        fillColor="#c4c4f8"
+        content="Revenue Assurance"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="228"
+          width="85"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -168,6 +402,71 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-d0b6581ce03f46ed9eb3321807069ebf"
+        fillColor="#d5ff95"
+        content="Automated Service"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="60"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-d07c7adaeb7948189e9a28b1dac7218e"
+        fillColor="#d5ff95"
+        content="Support and Issues Handling"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="144"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-2225348804524411a9533e251713aa76"
+        fillColor="#d5ff95"
+        content="Collaboration"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="144"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-9450ac3abc82425bbcd0b9a825df4083"
+        fillColor="#d5ff95"
+        content="Digital Engagement"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="60"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-c8eafbb0e085446a813c378e3443e8d6"
+        fillColor="#d5ff95"
+        content="Contractual Relationship"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="108"
+          y="216"
+          width="85"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -185,6 +484,84 @@
         y="300"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-453a1d98557e425096f9d36e85aedadd"
+        fillColor="#c4c4f8"
+        content="Bidding"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="192"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-810926020e8b41b599a89c60d7cefbd3"
+        fillColor="#c4c4f8"
+        content="Social Media"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="120"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-b7472ae511b74ae9ad1ee7a42714a454"
+        fillColor="#c4c4f8"
+        content="Advertisment"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="120"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-bad826bc1c554298a61fa94c76ae3be3"
+        fillColor="#c4c4f8"
+        content="Parkee"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="48"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-f34e7286cd004cd4b8248aa77be81117"
+        fillColor="#c4c4f8"
+        content="Customer Support"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="192"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-b0d67b32720b42a0beccb079aa9d32b5"
+        fillColor="#c4c4f8"
+        content="Parking Gate System"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="120"
+          y="48"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -245,6 +622,84 @@
         y="588"
         width="570"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-5b7c670a8930458bb2db7aabb3706a01"
+        fillColor="#c6f9f7"
+        content="Parking Infrastructure"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="36"
+          width="109"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-cb7a771eef9245a1a92ee3f1eebe862d"
+        fillColor="#c6f9f7"
+        content="IT Infrastructure"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="108"
+          width="109"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-4254c63f1f0847d49abb84d94b882c13"
+        fillColor="#c6f9f7"
+        content="Operation and Maintenance"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="144"
+          y="36"
+          width="109"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-430dc48dcd694bb2b30a8b54724104e8"
+        fillColor="#c6f9f7"
+        content="Sales and Acquisition cost"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="144"
+          y="108"
+          width="109"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-b98ff12b7a7640afa808ffef804e491f"
+        fillColor="#c6f9f7"
+        content="Human Resource Cost"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="264"
+          y="36"
+          width="109"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-f4427d74a50f48899cbc8135beb1b544"
+        fillColor="#c6f9f7"
+        content="Research and Development Cost"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="264"
+          y="108"
+          width="109"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -263,6 +718,97 @@
         y="588"
         width="572"
         height="181"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-d76f24fcf75e42d48b3bcfabbfaf3530"
+        fillColor="#ffff95"
+        content="Parking Equipment Rent Fee"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="36"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-bb945c8b45254a3c81222f3a135ac29a"
+        fillColor="#ffff95"
+        content="Member Card Fee"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="96"
+          y="36"
+          width="85"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-8d40b33695ac4ce9948c105c510a30fc"
+        fillColor="#ffff95"
+        content="Parking Fee"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="192"
+          y="36"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-5d8a9910b6014489b40fa72de514ca77"
+        fillColor="#ffff95"
+        content="Advertising"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="276"
+          y="36"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-a27669ed0114434b910fdfa58f6cc1be"
+        fillColor="#ffff95"
+        content="Security Service Fee"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="360"
+          y="36"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-45fb234b3cd64e23a1497de5af37aea0"
+        fillColor="#ffff95"
+        content="EV Charging Station Usage Fee"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="12"
+          y="108"
+          width="97"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-3f64ed71ba9948ab972c71bc5a28275e"
+        fillColor="#ffff95"
+        content="RFID Tag Sale"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="118"
+          y="108"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
