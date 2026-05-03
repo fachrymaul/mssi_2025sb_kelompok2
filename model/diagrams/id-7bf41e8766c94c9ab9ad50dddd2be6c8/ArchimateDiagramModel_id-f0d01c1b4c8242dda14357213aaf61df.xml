@@ -1790,7 +1790,7 @@
         x="2208"
         y="492"
         width="1536"
-        height="1344"/>
+        height="528"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-22ada11d5e074d899f237f18227c709e"
@@ -2037,8 +2037,8 @@
             href="CompositionRelationship_id-874ebebdbef049b3b52dab557e953bff.xml#id-874ebebdbef049b3b52dab557e953bff"/>
       </sourceConnections>
       <bounds
-          x="24"
-          y="420"
+          x="804"
+          y="36"
           width="601"
           height="241"/>
       <children
@@ -2271,8 +2271,8 @@
             href="CompositionRelationship_id-5aa48c667a814daf9bea35173a7edf42.xml#id-5aa48c667a814daf9bea35173a7edf42"/>
       </sourceConnections>
       <bounds
-          x="504"
-          y="144"
+          x="804"
+          y="288"
           width="240"
           height="97"/>
       <children
@@ -2307,8 +2307,8 @@
             href="CompositionRelationship_id-e146ae15b21d4edb8d14a1f20108dca2.xml#id-e146ae15b21d4edb8d14a1f20108dca2"/>
       </sourceConnections>
       <bounds
-          x="504"
-          y="252"
+          x="804"
+          y="407"
           width="240"
           height="97"/>
       <children
@@ -2327,6 +2327,29 @@
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_id-899fec93e6cd4c42b492bc47725b7042.xml#id-899fec93e6cd4c42b492bc47725b7042"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-529fee136bac4d0199048132ef8203d7"
+      name="Shared Service Center"
+      textAlignment="1">
+    <bounds
+        x="2208"
+        y="1025"
+        width="1044"
+        height="224"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-0c73b069b3664f47814c53e3cf456d3b">
+      <bounds
+          x="457"
+          y="76"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-84c5bc3c7f914cdbbee183b202f42790.xml#id-84c5bc3c7f914cdbbee183b202f42790"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
