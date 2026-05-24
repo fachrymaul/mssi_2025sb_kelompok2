@@ -79,8 +79,8 @@
           href="CompositionRelationship_id-5c7b594dedf044fe90d9015cdbddd88c.xml#id-5c7b594dedf044fe90d9015cdbddd88c"/>
     </sourceConnections>
     <bounds
-        x="468"
-        y="636"
+        x="300"
+        y="390"
         width="541"
         height="409"/>
     <children
@@ -367,8 +367,8 @@
       name="CentrePark"
       textAlignment="1">
     <bounds
-        x="396"
-        y="396"
+        x="228"
+        y="150"
         width="313"
         height="181"/>
     <children
@@ -534,8 +534,8 @@
       name="Parkee"
       textAlignment="1">
     <bounds
-        x="744"
-        y="390"
+        x="576"
+        y="144"
         width="277"
         height="187"/>
     <children

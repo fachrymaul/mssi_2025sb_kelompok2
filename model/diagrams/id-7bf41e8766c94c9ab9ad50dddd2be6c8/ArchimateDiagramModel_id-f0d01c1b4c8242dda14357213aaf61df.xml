@@ -9,8 +9,8 @@
       name="Back Office"
       textAlignment="1">
     <bounds
-        x="2208"
-        y="492"
+        x="216"
+        y="336"
         width="1740"
         height="528"/>
     <children
@@ -832,8 +832,8 @@
       name="Shared Service Center"
       textAlignment="1">
     <bounds
-        x="2208"
-        y="1025"
+        x="216"
+        y="869"
         width="1741"
         height="428"/>
     <children
@@ -1753,8 +1753,8 @@
       name="Front Office"
       textAlignment="1">
     <bounds
-        x="2208"
-        y="168"
+        x="216"
+        y="12"
         width="973"
         height="301"/>
     <children
@@ -2160,5 +2160,17 @@
           xsi:type="archimate:Grouping"
           href="Grouping_id-bc07272ed0254d6ebc433efb3263b8da.xml#id-bc07272ed0254d6ebc433efb3263b8da"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-95e9a6b67f014ff89c97bb305588d0d5">
+    <bounds
+        x="1200"
+        y="192"
+        width="181"
+        height="121"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-4ed1c0ee546545d9967ddadead0adceb.xml#id-4ed1c0ee546545d9967ddadead0adceb"/>
   </children>
 </archimate:ArchimateDiagramModel>

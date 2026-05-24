@@ -653,10 +653,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3151f75acbc84f6cae106d56730a5093">
     <bounds
-        x="420"
-        y="468"
+        x="660"
+        y="444"
         width="215"
-        height="132"/>
+        height="241"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-82721b88d25b49fb950b5f12f2df03f7.xml#id-82721b88d25b49fb950b5f12f2df03f7"/>
